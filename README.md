@@ -1,2 +1,2 @@
 # Python_estudo
-Lista de desafios do curso de Data Science - Awari
+Lista de atividades e desafios do curso de Data Science - Awari (2020)
