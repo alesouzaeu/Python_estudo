@@ -2,8 +2,10 @@
 Lista de aulas, atividades e desafios relacionados a Data Science.
 
 - Python;
+- Bibliotecas de visualização;
+- Modelos de Machine Learning;
 - SQLite;
 - Markdown;
-- Data Science;
+- Analise Exploratória e Descritiva de dados;
 - Etc.
 
